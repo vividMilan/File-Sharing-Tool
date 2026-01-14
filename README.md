@@ -14,7 +14,7 @@ This is a tool that I have developed to share files locally with my friends in c
 - Can upload or download files even via a smart phone
 - No internet required
 
-### ⛔ Do not
+### ❗ Important
 - No authentication is implemented
 - Any one in the same network can access it
 - Stop the server immediately after use
@@ -25,6 +25,9 @@ This is a tool that I have developed to share files locally with my friends in c
 ```Might need to refresh once you upload a file```
 
 ```Make sure to connect to a same wireless network```
+
+### 💾 Requirements
+- Node.js
 
 # How to Use
 
